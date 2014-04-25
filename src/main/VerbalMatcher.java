@@ -5,7 +5,7 @@ import java.util.regex.Pattern;
 import java.util.regex.PatternSyntaxException;
 
 /**
- * Class that provides the ability to create large and complex
+ * Class helps to create large and complex
  * regular expressions in a simple way
  * For example:
  * <code>
