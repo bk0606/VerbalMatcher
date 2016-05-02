@@ -1,7 +1,7 @@
 VerbalMatcher
 =============
 
-Class helps to create large and complex
+This little framework help you to create large and complex
 regular expressions in a simple way
 For example:
 <code>
